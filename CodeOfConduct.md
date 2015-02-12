@@ -28,7 +28,7 @@ please contact an organizer immediately.
 ### **Nodeschool Chapter Dublin**
 
 * Organizers: **Anton Whalley @dhigit9**
-* Meetup URL: **URL for meetup, FB group, etc.**
+* Meetup URL: **http://www.meetup.com/Nodeschool-Dublin-Meetup**
 
 **If you have questions or feedback about this Code of Conduct please contact
 one of the organizers.**
