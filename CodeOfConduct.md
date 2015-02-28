@@ -1,3 +1,7 @@
+---
+title: Code of Conduct
+layout: default
+---
 # Code of Conduct
 
 We, the organizers of **Nodeschool Chapter Dublin**, are dedicated to providing a
@@ -35,7 +39,7 @@ one of the organizers.**
 
 The organizers of the above communities developed this Code of Conduct to
 govern their respective events and communication channels. We used [PDX
-Python's anti-harassment policy](http://www.meetup.com/pdxpython/pages/Code_of_Conduct/)
+Python\'s anti-harassment policy](http://www.meetup.com/pdxpython/pages/Code_of_Conduct/)
 and the [Geek Feminism Conference anti-harassment policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 as a starting point. This Code of Conduct, like its inspirations, is licensed under
 the [Creative Commons Zero license](http://creativecommons.org/publicdomain/zero/1.0/).

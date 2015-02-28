@@ -1,0 +1,28 @@
+body {
+  font-family: Varela Round;
+}
+
+#logo {
+  float:left;
+  width:25%;
+}
+
+#description {
+  padding-top: 7em;
+  margin-left: 27%;
+}
+
+@media only screen and (max-width : 600px) {
+  #logo {
+    float: none;
+    width: 50%;
+    height: 250px;
+    margin: 0 25%;
+  }
+
+  #description {
+    padding-top: 1em;
+    margin-left: 0;
+  }
+}
+
