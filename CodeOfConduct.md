@@ -34,6 +34,7 @@ please contact an organizer immediately.
 * Organizers: 
 
 	**Anton Whalley     @dhigit9       anton@venshare.com** 
+	
 	**David McMullin    @davecocoa7    david.mcmullin@gmail.com**
 	
 * Meetup URL: **http://www.meetup.com/Nodeschool-Dublin-Meetup**
