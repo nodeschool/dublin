@@ -31,7 +31,11 @@ please contact an organizer immediately.
 
 ### **Nodeschool Chapter Dublin**
 
-* Organizers: **Anton Whalley @dhigit9 anton@venshare.com** **David McMullin @davecocoa7 david.mcmullin@gmail.com**
+* Organizers: 
+
+	**Anton Whalley     @dhigit9       anton@venshare.com** 
+	**David McMullin    @davecocoa7    david.mcmullin@gmail.com**
+	
 * Meetup URL: **http://www.meetup.com/Nodeschool-Dublin-Meetup**
 
 **If you have questions or feedback about this Code of Conduct please contact
