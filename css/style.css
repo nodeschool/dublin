@@ -409,12 +409,13 @@ background-color : #ccc; }
 
 	#headcontainer {
 		width: 100%;
-		background: url(../images/header.jpg) no-repeat  top;
+		background: url(../images/header-opt.jpg) no-repeat  top;
 		background-attachment:fixed;
 		-webkit-background-size: cover;
-  		-moz-background-size: cover;
-  		-o-background-size: cover;
-  		background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		background-color: rgb(5, 7, 41);
 	}
 
 	 #headcontainer a { color:#fff; }
